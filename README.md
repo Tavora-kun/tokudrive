@@ -1,6 +1,6 @@
 <div align="center">
 <img width="215" height="215" alt="hl1e8BQ" src="https://github.com/user-attachments/assets/4eaa880e-9e6d-4ec9-8fee-691a5c9c5cef" />
-![Downloads](https://img.shields.io/github/downloads/Tavora-kun/tokudrive/total?style=for-the-badge&color=red)
+
   <p><b>O Media Center Definitivo para Fãs de Tokusatsu e Anime</b></p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
