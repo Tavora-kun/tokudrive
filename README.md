@@ -4,7 +4,7 @@
   <p><b>O Media Center Definitivo para Fãs de Tokusatsu e Anime</b></p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Version](https://img.shields.io/badge/Versão-1.0.0-blue.svg)]()
+  [![Version](https://img.shields.io/badge/Versão-1.13.0-blue.svg)]()
   [![Plataforma](https://img.shields.io/badge/Plataforma-Windows%20%7C%20Linux-lightgrey.svg)]()
 </div>
 
@@ -28,7 +28,7 @@ A forma mais fácil de usar o TokuDrive Max é baixar a versão compilada na aba
 
 ### Para Windows
 1. Vá até à página de **Releases**.
-2. Baixe o ficheiro `TokuDrive Max Setup 1.0.0.exe`.
+2. Baixe o ficheiro `TokuDrive Max Setup 1.13.0.exe`.
 3. Dê um duplo clique para instalar (aceite os Termos de Uso).
 4. Abra o aplicativo a partir do seu Menu Iniciar ou Ambiente de Trabalho e divirta-se!
 
