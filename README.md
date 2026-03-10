@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="[hl1e8BQ.png](https://i.imgur.com/hl1e8BQ.png)" alt="TokuDrive Max Logo" width="150"/>
+<img width="913" height="270" alt="hl1e8BQ" src="https://github.com/user-attachments/assets/4eaa880e-9e6d-4ec9-8fee-691a5c9c5cef" />
+
   <h1>🎬 TokuDrive Max</h1>
   <p><b>O Media Center Definitivo para Fãs de Tokusatsu e Anime</b></p>
 
